@@ -1,0 +1,10 @@
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.Form1.resources
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.Properties.Resources.resources
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.GenerateResource.cache
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\tusar\C# programs\College Programs\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

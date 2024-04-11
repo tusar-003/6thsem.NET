@@ -1,0 +1,14 @@
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\bin\Debug\net8.0\armstrong.exe
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\bin\Debug\net8.0\armstrong.deps.json
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\bin\Debug\net8.0\armstrong.runtimeconfig.json
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\bin\Debug\net8.0\armstrong.dll
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\bin\Debug\net8.0\armstrong.pdb
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.AssemblyInfoInputs.cache
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.AssemblyInfo.cs
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.csproj.CoreCompileInputs.cache
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.dll
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\refint\armstrong.dll
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.pdb
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\armstrong.genruntimeconfig.cache
+C:\Users\tusar\C# programs\College Programs\Armstrong between range\armstrong\obj\Debug\net8.0\ref\armstrong.dll

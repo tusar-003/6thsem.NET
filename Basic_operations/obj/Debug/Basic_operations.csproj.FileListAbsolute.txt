@@ -1,0 +1,11 @@
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.csproj.AssemblyReference.cache
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.Properties.Resources.resources
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.csproj.GenerateResource.cache
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.csproj.CoreCompileInputs.cache
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.Form1.resources
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\bin\Debug\Basic_operations.exe.config
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\bin\Debug\Basic_operations.exe
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\bin\Debug\Basic_operations.pdb
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.exe
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\basic_operations\obj\Debug\Basic_operations.pdb
+C:\Users\tusar\C# programs\College Programs\Add-sub-mul-div\Basic_operations\obj\Debug\BasicOperations.Form1.resources

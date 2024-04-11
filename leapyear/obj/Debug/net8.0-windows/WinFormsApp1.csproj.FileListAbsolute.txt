@@ -1,0 +1,48 @@
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tusar\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\tusar\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\tusar\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\tusar\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\source\repos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\tusar\source\repos\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\Leap year c#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\tusar\C# programs\College Programs\Leap year c#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\tusar\C# programs\College Programs\Leap year c#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\tusar\C# programs\College Programs\Leap year c#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\Leap year c#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\tusar\C# programs\College Programs\Leap year c#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\leapyear\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\tusar\C# programs\College Programs\leapyear\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\tusar\C# programs\College Programs\leapyear\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\tusar\C# programs\College Programs\leapyear\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\leapyear\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\tusar\C# programs\College Programs\leapyear\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
